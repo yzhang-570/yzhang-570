@@ -3,9 +3,6 @@
 - 🎓 CS student at San Jose State University
 - 🖌️ Hobbyist game developer, artist, and cdrama enjoyer
 - ⚡ Seeking 2026 Spring/Summer internships
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yzhang-570&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook,html,css,scss,nsis" alt="zhang-570" /></p>
-
 <!--
 **yzhang-570/yzhang-570** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
