@@ -1,8 +1,7 @@
 # Hi there, I'm Yuwen
 ### About Me
 - 🎓 CS student at San Jose State University
-- 🖌️ Hobbyist game developer, artist, and cdrama enjoyer
-- ⚡ Seeking 2026 Spring/Summer internships
+- 🖌️ Hobbyist artist, and cdrama enjoyer
 <!--
 **yzhang-570/yzhang-570** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
